@@ -10,5 +10,10 @@ https://github.com/Wakanda-DRAR/GestionResiduos.git
 
 https://www.youtube.com/watch?v=t7rg-MPO-gQ
 
+## Descripción
+
+Consiste en un flujo de basura que se va llenando simulando la gente que va tirando basura y residuos a los contenedores , tiran basura de tipo papel, organica , vidrio y plastico.
+Cada cierto tiempo pasan los servicios de limpieza que se encargan de vaciar los contenedores de basura.
+
 
 
